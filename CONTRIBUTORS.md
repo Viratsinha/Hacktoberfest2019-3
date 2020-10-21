@@ -13,6 +13,12 @@
 - Bio: Master
 - Github: http://github.com/Mystes-CS
 ***
+### Virat Sinha
+- photo:
+- Location: Bihar, India
+- Bio: Student of computer science
+- Github: https://github.com/Viratsinha
+***
 
 ### Christian Torres
 - Photo: https://media.licdn.com/dms/image/C4E03AQH7xBPTadPPlg/profile-displayphoto-shrink_100_100/0?e=1575504000&v=beta&t=tLe4Jz-zCt7FQCySRX_vW0rK-oFfwjk8-NAjMxbuFXg
